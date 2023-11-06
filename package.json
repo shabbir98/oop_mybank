@@ -1,6 +1,6 @@
 {
   "name": "@shabbir_habib/oop_mybank",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "main.js",
   "type": "module",
@@ -13,10 +13,10 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.3.0",
-    "inquirer": "^9.2.11"
+    "inquirer": "^9.2.11",
+    "@faker-js/faker": "^8.2.0"
   },
   "devDependencies": {
-    "@faker-js/faker": "^8.2.0",
     "@types/inquirer": "^9.0.6"
   }
 }
